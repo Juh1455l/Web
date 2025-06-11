@@ -1,7 +1,7 @@
 :root {
     --text-color: #DBE4EF;
     --card-front-color: #9766b4;
-    --card-back-color: #e4ddf0;
+    --card-back-color: #b8adca;
 }
 
 body {
@@ -77,7 +77,7 @@ body {
 
 .cartao__conteudo__resposta {
     transform: rotateY(180deg);
-    background-color: rgb(205, 183, 211);
+    background-color: rgb(252, 250, 252);
     border: 4px solid var(--card-back-color);
 }
 
