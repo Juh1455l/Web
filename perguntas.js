@@ -1,18 +1,18 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Cardiologia',
+    'O que é doença valvar?',
+    'condição em que uma ou mais válvulas do coração não funcionam corretamente, afetando a passagem do sangue'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Cardiologia',
+    'O que é Taquicardia Supraventricular (TSV)?',
+    'condição em que o coração bate muito rapidamente, acima de 100 batimentos por minuto, e a origem do impulso elétrico está acima do nó atrioventricular (na região dos átrios'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
+    'Moda',
+    'Qual a principal função de um estilista de moda?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
