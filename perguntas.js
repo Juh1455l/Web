@@ -11,13 +11,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Moda',
-    'Qual a principal função de um estilista de moda?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Veterinária',
+    'Qual a função principal do coração em um animal?',
+    'Bombear o sangue para o corpo, fornecendo oxigênio e nutrientes e removendo resíduos metabólicos.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Veterinária',
+    'Quais os quatro parâmetros vitais mais importantes a serem avaliados em um exame físico de rotina em um animal?',
+    'Temperatura, Frequência Cardíaca, Frequência Respiratória e Tempo de Preenchimento Capilar'
 )
